@@ -1,7 +1,7 @@
 <!-- index sebagai pusat system web -->
 <?php
 include 'view/header.php';
-header("Location: dashboard-main/dashboard.html");
+header("Location: dashboard/dashboard.html");
 ?>
 
 
