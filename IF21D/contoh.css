@@ -1,0 +1,189 @@
+.body {
+  font-family: 'Lora';
+}
+
+.banner {
+  background-color: #fff;
+  font-family: 'Lora';
+  padding-top: 20%;
+  padding-bottom: 20%;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #2f91ec;
+}
+
+.nav-link {
+  font-size: 20px;
+  font-family: 'Lora';
+  color: #fff;
+}
+
+.navbar-brand {
+  font-family: 'Lora';
+}
+
+/* Hubungi Kami */
+.display-3 {
+  font-family: 'Lora';
+  padding-top: 40px;
+}
+.display-6 {
+  color: black;
+  font-family: 'Lora';
+  font-weight: 700;
+}
+
+.client img {
+  height: auto;
+  max-height: 150px;
+}
+
+.desk {
+  font-family: 'Lora';
+}
+
+/* Deskripsi Cek Profil */
+.UBP {
+  font-size: larger;
+  margin-top: 200px;
+  font-family: 'Lora';
+}
+.deskripsi {
+  font-family: 'Lora';
+  color: black;
+  margin-top: 30px;
+  
+}
+.gambar {
+  margin-top: -40x;
+  margin-right: 10px;
+  float: left;
+  width: 200;
+}
+
+.FTIK {
+  font-size: larger;
+  margin-top: 200px;
+  font-family: 'Lora';
+}
+
+.deskripsi2 {
+  font-family: 'Lora';
+  color: black;
+  margin-top: 30px;
+}
+
+.gambar2 {
+  margin-top: -40px;
+  margin-right: 5px;
+  float: left;
+  width: 200;
+  }
+
+.IF21D {
+  font-size: larger;
+  margin-top: 150px;
+  font-family: 'Lora';
+}
+
+.deskripsi3 {
+  font-family: 'Lora';
+  color: black;
+  margin-top: 30px;
+}
+
+.gambar3 {
+  margin-top: -40px;
+  margin-right: 5px;
+  float: left;
+  width: 200;
+  margin-bottom: -10px;
+}
+
+/* Jadwal Matkul */
+
+.gambarjadwal {
+  width: 75%;
+  height: 75%;
+  margin-top: 100px;
+}
+.container-client {
+  background-color: #fff;
+}
+/* footer */
+
+
+.footer {
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 100px;
+  text-align: justify;
+}
+
+.footer-section {
+  width: 20%;
+  margin: 0 auto;
+  margin-top: 50px;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Lora';
+  font-weight: 800;
+  font-size: 20px;
+  margin-bottom: 20px;
+  color: black;
+  width: 100%;
+  line-height: 50%;
+}
+
+.hub1, .hub2, .hub3 {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  color: blue;
+  line-height: 40px;
+}
+
+.cek {
+  background-color: #e2f0ff;
+  padding-bottom: 20px;
+}
+
+.footer-bottom {
+  background-color: #fff;
+  word-spacing: 2px;
+  padding-top: 7px;
+  text-transform: capitalize;
+  text-align: center;
+  margin-bottom: -10px;
+  font-size: small;
+}
+
+.fa-brands {
+  margin-left: -15px;
+}
+
+.galeri {
+  margin-top: 200px;
+}
+.struktur {
+  margin-top: 200px;
+}
+.peraturan {
+  margin-top: 200px;
+}
+.jadwalpiket {
+  margin-top: 200px;
+}
+.blog {
+  margin-top: 200px;
+}
+
+.laporankas {
+  margin-top: 200px;
+}
