@@ -6,11 +6,4 @@ header("Location: dashboard/dashboard.html");
 
 
 
-
-    
-
-
-
-
-
 <?php include 'view/footer.php'; ?>
